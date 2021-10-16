@@ -8,7 +8,6 @@ namespace ConsoleApp1
 {
     class B : A
     {
-
         protected double x2;
 
         public double getX2()
